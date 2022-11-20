@@ -1,0 +1,26 @@
+ body{
+    background-color:rgb(30, 16, 82);
+    color:azure;
+ }
+ table{
+    border-color: white;
+    font-weight:bold;
+
+ }
+ td{
+    padding: 8px 16px;
+ }
+ .col{
+    font-weight:bold;
+    font-size:20px;
+    background-color:rgb(202, 212, 9);
+ }
+ tr{
+    background-color: rosybrown;
+    color:black;
+    text-align: center;
+    display: none;
+ } input{
+    font-size: 16px;
+ }
+ 
